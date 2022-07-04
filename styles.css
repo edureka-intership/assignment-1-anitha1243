@@ -1,0 +1,246 @@
+.filter-page {
+    /* Layout Properties */
+    width: 1366px;
+    height: 973px;
+}
+
+.header {
+    /* Layout Properties */
+    width: 1366px;
+    height: 80px;
+    /* UI Properties */
+    background-color: #CE0505;
+}
+
+.sub-header {
+    width: 1163px;
+    height: 52px;
+    margin-left: 10%;
+}
+
+.logo {
+    color: red;
+    background-color: white;
+    width: 50px;
+    height: 55px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 65px;
+    font: normal normal 600 36px/55px Poppins;
+    display: inline-block;
+    margin-top: 1%;
+}
+
+.login {
+    /* Layout Properties */
+    width: 43px;
+    height: 23px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal medium 16px/25px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin-left: 60%;
+    margin-right: 1%;
+    display: inline-block;
+}
+
+.account-button {
+    /* Layout Properties */
+    width: 150px;
+    height: 20px;
+    /* UI Properties */
+    border: 1px solid #FFFFFF;
+    border-radius: 3px;
+    opacity: 1;
+    display: inline-block;
+}
+
+.account {
+    /* Layout Properties */
+    width: 152px;
+    height: 23px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal medium 16px/25px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.filter-heading {
+    width: 514px;
+    height: 51px;
+    text-align: left;
+    font: normal normal bold 36px/55px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    margin-left: 10%;
+}
+
+.side-panel {
+    /* Layout Properties */
+    width: 260px;
+    height: 682px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    margin-left: 10%;
+}
+
+.sub-side-panel {
+    margin-left: 10%;
+}
+
+.filters-sidepanel {
+    margin-top: 5%;
+    width: 55px;
+    height: 25px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 18px/27px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+}
+
+.location-label {
+    margin-top: 5%;
+    text-align: left;
+    font: normal normal normal 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+}
+
+.select-location {
+    /* UI Properties */
+    margin-top: 5%;
+    width: 208px;
+    height: 35px;
+    border: 1px solid #8C96AB;
+    border-radius: 3px;
+    text-align: left;
+    font: normal normal normal 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #8C96AB;
+    opacity: 1;
+}
+
+.cuisine-label {
+    /* Layout Properties */
+    margin-top: 10%;
+    width: 52px;
+    height: 20px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+}
+
+.cuisine-checkbox-label {
+    /* Layout Properties */
+    margin-top: 5%;
+    width: 200px;
+    height: 20px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #8C96AB;
+    opacity: 1;
+    display: inline-block;
+}
+
+.cuisine-checkbox {
+    /* Layout Properties */
+    margin-top: 5%;
+    width: 18px;
+    height: 18px;
+    /* UI Properties */
+    border: 2px solid #3A5075;
+    border-radius: 2px;
+    opacity: 1;
+    border-right: 5px;
+    display: inline-block;
+}
+
+.cost-label {
+    /* Layout Properties */
+    margin-top: 10%;
+    width: 89px;
+    height: 20px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+}
+
+.cost-radio-label {
+    /* Layout Properties */
+    margin-top: 5%;
+    border-right: 10%;
+    width: 200px;
+    height: 20px;
+    /* UI Properties */
+    text-align: left;
+    letter-spacing: 0px;
+    color: #8C96AB;
+    opacity: 1;
+    display: inline-block;
+}
+
+input[name="cost-filter"] {
+    margin-top: 5%;
+    width: 18px;
+    height: 18px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #8C96AB;
+    opacity: 1;
+    display: inline-block;
+}
+
+.sort-label {
+    /* Layout Properties */
+    margin-top: 10%;
+    width: 37px;
+    height: 25px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 18px/27px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+}
+
+input[name="sort-filter"] {
+    margin-top: 5%;
+    width: 18px;
+    height: 18px;
+    /* UI Properties */
+    border: 2px solid #3A5075;
+    border-radius: 9px;
+    opacity: 1;
+}
+
+.sort-radio-label {
+    /* Layout Properties */
+    margin-top: 5%;
+    width: 200px;
+    height: 20px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #8C96AB;
+    opacity: 1;
+    display: inline-block;
+}
