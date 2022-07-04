@@ -2,6 +2,7 @@
     /* Layout Properties */
     width: 1366px;
     height: 973px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .header {
@@ -25,8 +26,8 @@
     height: 55px;
     border-radius: 50%;
     text-align: center;
-    font-size: 65px;
-    font: normal normal 600 36px/55px Poppins;
+    font-size: 45px;
+    font: normal normal 600 36px/55px;
     display: inline-block;
     margin-top: 1%;
 }
@@ -37,7 +38,7 @@
     height: 23px;
     /* UI Properties */
     text-align: left;
-    font: normal normal medium 16px/25px Poppins;
+    font: normal normal medium 16px/25px;
     letter-spacing: 0px;
     color: #FFFFFF;
     opacity: 1;
@@ -63,17 +64,18 @@
     height: 23px;
     /* UI Properties */
     text-align: center;
-    font: normal normal medium 16px/25px Poppins;
+    font: normal normal medium 16px/25px;
     letter-spacing: 0px;
     color: #FFFFFF;
     opacity: 1;
 }
 
 .filter-heading {
+    margin: 25px 0px 25px;
     width: 514px;
     height: 51px;
     text-align: left;
-    font: normal normal bold 36px/55px Poppins;
+    font: normal normal bold 36px/55px 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     letter-spacing: 0px;
     color: #192F60;
     opacity: 1;
@@ -101,7 +103,7 @@
     height: 25px;
     /* UI Properties */
     text-align: left;
-    font: normal normal 600 18px/27px Poppins;
+    font: normal normal 600 18px/27px;
     letter-spacing: 0px;
     color: #192F60;
     opacity: 1;
@@ -110,7 +112,7 @@
 .location-label {
     margin-top: 5%;
     text-align: left;
-    font: normal normal normal 14px/21px Poppins;
+    font: normal normal normal 14px/21px;
     letter-spacing: 0px;
     color: #192F60;
     opacity: 1;
@@ -124,7 +126,7 @@
     border: 1px solid #8C96AB;
     border-radius: 3px;
     text-align: left;
-    font: normal normal normal 14px/21px Poppins;
+    font: normal normal normal 14px/21px 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     letter-spacing: 0px;
     color: #8C96AB;
     opacity: 1;
@@ -137,7 +139,7 @@
     height: 20px;
     /* UI Properties */
     text-align: left;
-    font: normal normal normal 14px/21px Poppins;
+    font: normal normal normal 14px/21px;
     letter-spacing: 0px;
     color: #192F60;
     opacity: 1;
@@ -145,16 +147,16 @@
 
 .cuisine-checkbox-label {
     /* Layout Properties */
-    margin-top: 5%;
     width: 200px;
     height: 20px;
     /* UI Properties */
     text-align: left;
-    font: normal normal normal 14px/21px Poppins;
+    font: normal normal normal 14px/21px;
     letter-spacing: 0px;
     color: #8C96AB;
     opacity: 1;
     display: inline-block;
+    vertical-align: 5px;
 }
 
 .cuisine-checkbox {
@@ -177,7 +179,7 @@
     height: 20px;
     /* UI Properties */
     text-align: left;
-    font: normal normal normal 14px/21px Poppins;
+    font: normal normal normal 14px/21px;
     letter-spacing: 0px;
     color: #192F60;
     opacity: 1;
@@ -195,6 +197,7 @@
     color: #8C96AB;
     opacity: 1;
     display: inline-block;
+    vertical-align: 5px;
 }
 
 input[name="cost-filter"] {
@@ -215,7 +218,7 @@ input[name="cost-filter"] {
     height: 25px;
     /* UI Properties */
     text-align: left;
-    font: normal normal 600 18px/27px Poppins;
+    font: normal normal 600 18px/27px 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     letter-spacing: 0px;
     color: #192F60;
     opacity: 1;
@@ -233,14 +236,14 @@ input[name="sort-filter"] {
 
 .sort-radio-label {
     /* Layout Properties */
-    margin-top: 5%;
     width: 200px;
     height: 20px;
     /* UI Properties */
     text-align: left;
-    font: normal normal normal 14px/21px Poppins;
+    font: normal normal normal 14px/21px 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     letter-spacing: 0px;
     color: #8C96AB;
     opacity: 1;
     display: inline-block;
+    vertical-align: 5px;
 }
