@@ -1,0 +1,104 @@
+.qs-row-1 {
+    width: 650px;
+    height: 291px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    left: 35%;
+    position: absolute;
+    top: 30%;
+}
+
+.filter-result-img {
+    /* Layout Properties */
+    width: 120px;
+    height: 120px;
+    /* UI Properties */
+    opacity: 1;
+    border-radius: 30%;
+    margin: 2% 2% 2% 2%;
+}
+
+.result-heading {
+    /* Layout Properties */
+    top: 7%;
+    left: 23%;
+    width: 303px;
+    height: 43px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 30px/46px 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    position: absolute;
+}
+
+.result-loc {
+    top: 25%;
+    left: 23%;
+    width: 40px;
+    height: 23px;
+    text-align: left;
+    font: normal normal medium 16px/30px 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    position: absolute;
+}
+
+.result-address {
+    top: 33%;
+    left: 23%;
+    width: 370px;
+    height: 23px;
+    text-align: left;
+    font: normal normal normal 16px/30px 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 0px;
+    color: #636F88;
+    opacity: 1;
+    position: absolute;
+}
+
+.result-info {
+    /* Layout Properties */
+    top: 60%;
+    left: 2%;
+    width: 140px;
+    height: 118px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 16px/30px 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 0px;
+    color: #636F88;
+    opacity: 1;
+    position: absolute;
+}
+
+.result-info-data {
+    /* Layout Properties */
+    top: 60%;
+    left: 40%;
+    width: 251px;
+    height: 69px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 16px/30px 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    position: absolute;
+}
+
+.qs-row-2 {
+    /* Layout Properties */
+    top: 80%;
+    left: 35%;
+    width: 650px;
+    height: 291px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    position: absolute;
+}
