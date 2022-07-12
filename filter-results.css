@@ -45,6 +45,7 @@
     color: #192F60;
     opacity: 1;
     position: absolute;
+    font-weight: bold;
 }
 
 .result-address {
@@ -88,6 +89,7 @@
     color: #192F60;
     opacity: 1;
     position: absolute;
+    font-weight: bold;
 }
 
 .qs-row-2 {
@@ -101,4 +103,94 @@
     box-shadow: 0px 3px 6px #00000029;
     opacity: 1;
     position: absolute;
+}
+
+.nav-box-1 {
+    /* Layout Properties */
+    top: 130%;
+    left: 50%;
+    width: 36px;
+    height: 36px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #8C96AB;
+    border-radius: 7px;
+    opacity: 0.4;
+    position: absolute;
+    text-align: center;
+}
+
+.nav-box-2 {
+    /* Layout Properties */
+    top: 130%;
+    left: 54%;
+    width: 36px;
+    height: 36px;
+    /* UI Properties */
+    background: #8C96AB 0% 0% no-repeat padding-box;
+    border: 1px solid #8C96AB;
+    border-radius: 7px;
+    opacity: 1;
+    position: absolute;
+    text-align: center;
+}
+
+.nav-box-3 {
+    /* Layout Properties */
+    top: 130%;
+    left: 58%;
+    width: 36px;
+    height: 36px;
+    /* UI Properties */
+    background: #8C96AB 0% 0% no-repeat padding-box;
+    border: 1px solid #8C96AB;
+    border-radius: 7px;
+    opacity: 1;
+    position: absolute;
+    text-align: center;
+}
+
+.nav-box-4 {
+    /* Layout Properties */
+    top: 130%;
+    left: 62%;
+    width: 36px;
+    height: 36px;
+    /* UI Properties */
+    background: #8C96AB 0% 0% no-repeat padding-box;
+    border: 1px solid #8C96AB;
+    border-radius: 7px;
+    opacity: 1;
+    position: absolute;
+    text-align: center;
+}
+
+.nav-box-5 {
+    /* Layout Properties */
+    top: 130%;
+    left: 66%;
+    width: 36px;
+    height: 36px;
+    /* UI Properties */
+    background: #8C96AB 0% 0% no-repeat padding-box;
+    border: 1px solid #8C96AB;
+    border-radius: 7px;
+    opacity: 1;
+    position: absolute;
+    text-align: center;
+}
+
+.nav-box-6 {
+    /* Layout Properties */
+    top: 130%;
+    left: 70%;
+    width: 36px;
+    height: 36px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #8C96AB;
+    border-radius: 7px;
+    opacity: 0.4;
+    position: absolute;
+    text-align: center;
 }
